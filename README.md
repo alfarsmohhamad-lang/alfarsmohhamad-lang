@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Abdelghani Mohamed Abdelghani  
 
-🎯 **Data Analyst | Faculty of Commerce – Al-Azhar University**  
+# 🎯 **Data Analyst | Faculty of Commerce – Al-Azhar University**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelghanymohamed&label=Profile%20Views&color=0e75b6&style=flat)  
 
