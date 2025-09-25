@@ -1,4 +1,4 @@
- ##👋 Hi, I'm Abdelghani Mohamed Abdelghani  
+ # 👋 Hi, I'm Abdelghani Mohamed Abdelghani  
 
 🎯 **Data Analyst | Faculty of Commerce – Al-Azhar University**  
 
